@@ -4,7 +4,7 @@
 
    <a href="https://github.com/Siddhant23" target="_blank">
    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
-   
+
    <a href="https://www.linkedin.com/in/siddhant-mehta" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     
