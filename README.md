@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Siddhant23&color=brightgreen&style=flat&label=Profile+Hits)
-<h1 align="center">Siddhant Mehta</h1>
+<h1 align="center">Siddhant Mehta 👋 </h1>
 <p align="center">
 
    <a href="https://github.com/Siddhant23" target="_blank">
@@ -14,10 +14,11 @@
 </p>
 
 ## What I know
-.<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="32">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32">
+.<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
+
 
 <!--   <img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=Siddhant23&count_private=true&include_all_commits=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant23&layout=compact" /> -->
