@@ -13,12 +13,29 @@
 
 </p>
 
-## What I know
-.<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
 
+### 🔨 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> 
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+  &nbsp&nbsp
+
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  &nbsp&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  &nbsp&nbsp
+
+</p>
 
 <!--   <img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=Siddhant23&count_private=true&include_all_commits=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant23&layout=compact" /> -->
