@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Siddhant23&color=brightgreen&style=flat&label=Profile+Hits)
 <h1 align='center'>
-  Hi there 👋 I'm Siddhant Mehta 👨‍💻
+  Hi there! 👋 I'm Siddhant Mehta 👨‍💻
 </h1>
 <h2 align='center'>
   Android Mobile App Developer
