@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Siddhant23&color=brightgreen&style=flat&label=Profile+Hits)
+![](https://komarev.com/ghpvc/?username=Siddhant23&color=blueviolet&style=flat&label=Profile+Hits)
 <h1 align='center'>
   Hi there! 👋 I'm Siddhant Mehta 👨‍💻
 </h1>
@@ -63,7 +63,6 @@
   &nbsp
      <img src= "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   &nbsp
-  
 </p>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant23" /> -->
